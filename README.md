@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boyang
 - 👀 I’m interested in Robot Skill Learning; Optimal Control; Imitation Learning; Riemannian Manifold
 - 🌱 I’m currently learning Geometry
-- 💞️ I’m looking to collaborate on every advanced robotic lab on Imitation Leanring and Robot Manipulation
+- 💞️ I’m looking to collaborate with every advanced robotic lab on Imitation learning and Robot Manipulation
 - 📫 How to reach me Website: https://tiboy.top
 - :video_game: Csgo rookie player :raised_hand:
 <!---
